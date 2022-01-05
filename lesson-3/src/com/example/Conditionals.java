@@ -1,2 +1,4 @@
-package com.example;public class Conditionals {
+package com.example;
+
+public class Conditionals {
 }
