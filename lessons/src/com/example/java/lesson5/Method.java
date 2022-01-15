@@ -6,15 +6,16 @@ package com.example.java.lesson5;
 public class Method {
     public static void main(String[] args) throws IllegalArgumentException {
 
-        sayHello();
-        sayHello();
-        sayHello();
-        sayHello();
+        sayHello1();
+        sayHello1();
+        sayHello1();
+        sayHello1();
         welcome();
     }
 
-    static void sayHello() {
+    static void sayHello1() {
         System.out.println("Hello");
+        System.out.println("Hello-Again!!!!");
     }
 
     static void welcome() {
