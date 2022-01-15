@@ -1,4 +1,4 @@
-package com.example.java;
+package com.example.java.lesson3;
 
 public class PrimitiveConditionals {
     public static void main(String[] args) {

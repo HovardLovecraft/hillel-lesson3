@@ -1,4 +1,4 @@
-package com.example.java;
+package com.example.java.lesson3;
 
 import java.util.Arrays;
 import java.util.List;
