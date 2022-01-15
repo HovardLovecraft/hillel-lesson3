@@ -15,7 +15,7 @@ public class Method {
 
     static void sayHello1() {
         System.out.println("Hello");
-        System.out.println("Hello-Again!!!!");
+        System.out.println("Hello-Again");
     }
 
     static void welcome() {
